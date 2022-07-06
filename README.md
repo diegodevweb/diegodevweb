@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Diego 👋
 
 - 🌱 Desenvolvedor Web Jr.
-- 👯 Estou disponível para trabalho Home Office como desenvolvedor web. 
+- 👯 Estou disponível para trabalhar como desenvolvedor web. 
 - 📫 Contate-me no e-mail: diego.devwebb@gmail.com
 - 😄 Pronouns: ele/dele. 
 
