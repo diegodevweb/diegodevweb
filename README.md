@@ -2,7 +2,7 @@
 
 - 👨‍💻 Desenvolvedor web.
 - 🔭 Atualmente estou trabalhando em: Desenvolvimento web (freelancer)
-- 🌱 Atualmente estou estudando: Livewire e Docker
+- 🌱 Atualmente estou estudando: Tall Stack (Tailwind, AlpineJs, Livewire e Laravel)
 - :man_technologist: Procuro colaborar em: Projetos opensource Laravel.
 
 <br>
