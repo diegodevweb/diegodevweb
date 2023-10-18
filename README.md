@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Diego <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 👨‍💻 Desenvolvedor web
-- 🔭 Atualmente estou trabalhando como Desenvolvedor web (Freelancer)
-- 🌱 Atualmente estou estudando: Tall Stack (Tailwind, AlpineJs, Livewire e Laravel)
 - :man_technologist: Procuro colaborar em: Projetos opensource Laravel
 
 <br>
