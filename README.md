@@ -1,8 +1,8 @@
-<div>
+<!-- <div>
 <a href="https://github.com/diegodevweb">
 <img loading="lazy" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diegodevweb&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=diegodevweb&show_icons=true&theme=dracula&include_all_commits=true&"/>
-</div> <br>
+</div> <br> -->
 
 
 ## Tecnologias que utilizo
